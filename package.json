@@ -1,0 +1,15 @@
+{
+  "name": "test-job",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "express": "~4.16.0",
+    "express-basic-auth": "^1.1.6",
+    "http-errors": "~1.6.2",
+    "jsonwebtoken": "^8.4.0"
+  }
+}
